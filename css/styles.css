@@ -1,8 +1,82 @@
-header {
-    background-color: #E7E9FC
-    #FFFFFF: 
+
+body {
+    font-family: sans-serif;
 }
-   
+.link-st {
+    width: 153px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    margin-right: 1045px;
+    margin-bottom: 24px;
+    margin-left: 347px;
+    color: #2E2F42;
+}
+.link-po {
+    width: 153px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    margin-right: 939px;
+    margin-bottom: 24px;
+    margin-left: 435px;
+    color: #2E2F42;
+}
+.mail {
+    width: 153px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    margin-right: 347px;
+    margin-bottom: 24px;
+    margin-left: 940px;
+    color: #434455;
+    
+
+}
+.tel {
+    width: 153px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    margin-right: 156px;
+    margin-bottom: 24px;
+    margin-left: 1133px;
+    color: #434455;
+}
+
 .hero {
-    #2E2F42
+    box-sizing: border-box;
+    width: 1440px;
+    height: 600pt;
+    background-color: #2E2F42;
+    
+    
+}
+.hero-title {
+    color: #FFFFFF;
+    width: 496px;
+    height: 120px;
+    left: 472px;
+    top: 260px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    padding-top: 188px;
+    padding-bottom: 292px;
+    padding-right: 472px;
+    padding-left: 472px;
+
+}
+.btn {
+   background-color: #4D5AE5;
+   color: #FFFFFF;
+   
+   
 }
