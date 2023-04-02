@@ -4,7 +4,10 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-.header-link {
+.link {
+    text-decoration: none;
+}
+.list-web {
     color: #4D5AE5;
     font-weight: 800;
     font-size: 18px;
@@ -14,7 +17,7 @@ body {
     text-transform: uppercase;
     text-decoration: none;
 }
-.header-text {
+.list-studio {
     color: #2E2F42;
     font-weight: 800;
     font-size: 18px;
