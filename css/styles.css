@@ -2,6 +2,15 @@
 body {
     font-family: sans-serif;
 }
+.log_web {
+    font-family: "Raleway",sans-serif;
+   font-weight: 800;
+   font-size: 18px;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+   color: #4d5ae5;
+}
 .navigator {
     font-weight: 500;
     font-size: 16px;
@@ -23,12 +32,14 @@ body {
     top: 72px; 
 }
 .effect {
-    color: #FFFFFF;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
     position: absolute;
     width: 496px;
     height: 120px;
@@ -52,14 +63,15 @@ body {
     background: #4D5AE5;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-    font-family: 'Roboto';
+    font-family: "Roboto",sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     display: flex;
     align-items: center;
     letter-spacing: 0.04em;
+    cursor: pointer;
     flex: none;
     order: 0;
     flex-grow: 0;
