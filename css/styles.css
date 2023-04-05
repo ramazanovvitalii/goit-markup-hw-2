@@ -29,3 +29,26 @@ body {
 .link {
     text-decoration: none;
 }
+
+.logo-studio {
+    color: #2e2f42;
+}
+.list {
+     list-style: none;
+}
+ .logo-ap {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration:none;
+    color: #2e2f42;
+
+ }
+ .link {
+    text-decoration:none;
+ }
+.logo-ap:hover {
+    color: color: #404bbf;
+
+}
