@@ -44,7 +44,8 @@ span {
     color: #2e2f42;
 
  }
-.logo:hover {
+.logo:hover,
+.logo:focus {
      color:  #404bbf;
 
 }
@@ -57,7 +58,8 @@ span {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.list-adr:hover {
+.list-adr:hover,
+.list-adr:focus {
     color: #404bbf;
 }
 .hero {
@@ -80,7 +82,8 @@ span {
     letter-spacing: 0.04em;
     color: #ffffff ;
 }
-.btn:hover {
+.btn:hover,
+.btn:focus {
     background-color: #404BBF;
 }
 .name {
@@ -126,7 +129,8 @@ span {
     color: #4d5ae5;
     cursor: pointer;    
 }
-.all:hover {
+.all:hover,
+.all:focus {
     color: #FFFFFF;
     background-color: #404BBF;   
 }
