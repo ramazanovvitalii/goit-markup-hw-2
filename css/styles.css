@@ -30,7 +30,7 @@ body {
     text-decoration: none;
 }
 
-span {
+.stud {
     color: #2e2f42;
 }
 .list {
@@ -133,6 +133,9 @@ span {
 .all:focus {
     color: #FFFFFF;
     background-color: #404BBF;   
+}
+.foot {
+    color: #f4f4fd;
 }
 
 
