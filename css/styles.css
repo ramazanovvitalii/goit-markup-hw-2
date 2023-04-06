@@ -141,7 +141,7 @@ span {
     color: #4d5ae5;
     cursor: pointer;    
 }
-.website:hover {
+.website:hover,.website:focus {
     color: #FFFFFF;
     background-color: #404BBF; 
 }
@@ -155,8 +155,7 @@ span {
     color: #4d5ae5;
     cursor: pointer;     
 }
-.app:hover,
-.app:focus {
+.app:hover,.app:focus {
     color: #FFFFFF;
     background-color: #404BBF;
 }
@@ -170,8 +169,7 @@ span {
     color: #4d5ae5;
     cursor: pointer;
 }
-.design:hover,
-.design:focus {
+.design:hover,.design:focus {
     color: #FFFFFF;
     background-color: #404BBF;
 }
@@ -185,8 +183,7 @@ span {
     color: #4d5ae5;
     cursor: pointer;
 }
-.mark:hover,
-.mark:focus {
+.mark:hover,.mark:focus {
     color: #FFFFFF;
     background-color: #404BBF;
 }
