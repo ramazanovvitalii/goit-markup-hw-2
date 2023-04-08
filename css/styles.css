@@ -80,7 +80,8 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     letter-spacing: 0.04em;
-    color: #ffffff ;
+    color: #ffffff;
+    cursor: pointer;
 }
 .btn:hover,
 .btn:focus {
