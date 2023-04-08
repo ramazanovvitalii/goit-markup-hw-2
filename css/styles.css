@@ -52,14 +52,14 @@ body {
 .adr {
     font-style: normal;
 }
-.list-adr {
+.adr {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.list-adr:hover,
-.list-adr:focus {
+.adr:hover,
+.adr:focus {
     color: #404bbf;
 }
 .hero {
