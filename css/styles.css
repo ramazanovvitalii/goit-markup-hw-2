@@ -108,10 +108,13 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.img {
+.foto {
     background-color: #F4F4FD;
 }
 .foto-studio {
+    background-color: #FFFFFF;
+}
+.img {
     background-color: #FFFFFF;
 }
 .footer {
