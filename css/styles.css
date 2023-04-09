@@ -19,7 +19,7 @@ body {
     text-decoration: none;
 }
 
-.logo-span {
+.span {
     color: #2e2f42;
 }
 .list {
@@ -110,7 +110,7 @@ body {
     background-color: #2e2f42;
 }
 .studio {
-    color: var(color-cloud);
+    color: #FFFFFF;
 }
 .text {
     color: #f4f4fd;
