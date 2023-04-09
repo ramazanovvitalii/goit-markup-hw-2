@@ -135,6 +135,7 @@ body {
 .portfolio:focus {
     color: var(--back-color);
     background-color: var(--ocean);
+}
 .footer-studio {
     color: var(--cloud);
 }
