@@ -104,10 +104,11 @@ body {
     background-color: #FFFFFF;
 }
 .img {
-    background-color: var(color-white);
+    background-color: #FFFFFF;
 }
 .footer {
     background-color: #2e2f42;
+    
 }
 .studio {
     color: #FFFFFF;
@@ -134,13 +135,14 @@ body {
     color: #f4f4fd;
 }
 .web {
-    color:  #4d5ae5
+    
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color:  #4d5ae5
 }
 
 
