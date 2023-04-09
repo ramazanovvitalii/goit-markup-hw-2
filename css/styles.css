@@ -1,37 +1,37 @@
-:root { 
-    color-iris: #4d5ae5;
-    color-ocean: #404bbf;
-    color-navy-blue: #2e2f42;
-    color-green: #31d0aa;
-    color-slate: #434455;
-    color-light-slate: #8e8f99;
-    color-cornflower: #e7e9fc;
-    color-cloud: #f4f4fd;
-    color-navy-blue-modal: #2e2f42;
-    color-grey: #2e2f42;
-    color-white: #ffffff;
-    color-dairy: #fcfcfc;
+:root {
+    --danger-text: color-iris:  #4d5ae5;
+    --danger-text: color-ocean: #404bbf;
+    --danger-text: color-navy-blue: #2e2f42;
+    --danger-text: color-green: #31d0aa;
+    --danger-text: color-slate: #434455;
+    --danger-text: color-light-slate: #8e8f99;
+    --danger-text: color-cornflower: #e7e9fc;
+    --danger-text: color-cloud: #f4f4fd;
+    --danger-text: color-navy-blue-modal: #2e2f42;
+    --danger-text: color-grey: #2e2f42;
+    --danger-text: color-white: #ffffff;
+    --danger-text: color-dairy: #fcfcfc;
 }
 body {
     font-family: "Roboto", sans-serif;
-    color: var(color-slate);
-    background-color: var(color-white);
+    color: var(#434455);
+    background-color: var(#FFFFFF);
 }
-.header-logo {
+.logo {
      font-family: "Raleway", sans-serif;
      font-weight: 800;
      font-size: 18px;
      line-height: 1.17;
       letter-spacing: 0.03em;
       text-transform: uppercase;
-      color: var(color-iris);
+      color: var(#4d5ae5);
 }
 .link {
     text-decoration: none;
 }
 
 .logo-span {
-    color: var(color-grey);
+    color: var(#2e2f42);
 }
 .list {
      list-style: none;
