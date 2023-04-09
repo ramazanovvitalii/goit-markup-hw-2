@@ -30,7 +30,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
 
  }
 .nav:hover,
@@ -98,40 +98,49 @@ body {
     color: #2e2f42;
 }
 .foto {
-    background-color: background-color: #F4F4FD;
+    background-color:#F4F4FD;
 }
 .foto-studio {
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 .img {
     background-color: var(color-white);
 }
 .footer {
-    background-color: var(color-navy-blue-modal);
+    background-color: #2e2f42;
 }
 .studio {
     color: var(color-cloud);
 }
 .text {
-    color: var(color-cloud);
+    color: #f4f4fd;
 }
 .portfolio {
-    background-color: var(color-cloud);
+    background-color: #F4F4FD;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: var(color-iris);
+    color: #4d5ae5;
     cursor: pointer;    
 }
 .portfolio:hover,
 .portfolio:focus {
-    color: var(color-white);
-    background-color: var(color-ocean);   
+    color: #FFFFFF;
+    background-color: #404BBF;   
 }
-.footer {
-    color: var(color-cloud);
+.footer-studio {
+    color: #f4f4fd;
+}
+.web {
+    color:  #4d5ae5
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 
