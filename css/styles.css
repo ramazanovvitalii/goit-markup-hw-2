@@ -1,21 +1,10 @@
 :root {
-    --danger-text: color-iris:  #4d5ae5;
-    --danger-text: color-ocean: #404bbf;
-    --danger-text: color-navy-blue: #2e2f42;
-    --danger-text: color-green: #31d0aa;
-    --danger-text: color-slate: #434455;
-    --danger-text: color-light-slate: #8e8f99;
-    --danger-text: color-cornflower: #e7e9fc;
-    --danger-text: color-cloud: #f4f4fd;
-    --danger-text: color-navy-blue-modal: #2e2f42;
-    --danger-text: color-grey: #2e2f42;
-    --danger-text: color-white: #ffffff;
-    --danger-text: color-dairy: #fcfcfc;
+     color-dairy: #fcfcfc;
 }
 body {
     font-family: "Roboto", sans-serif;
-    color: var(#434455);
-    background-color: var(#FFFFFF);
+    color:#434455;
+    background-color:#FFFFFF;
 }
 .logo {
      font-family: "Raleway", sans-serif;
@@ -24,14 +13,14 @@ body {
      line-height: 1.17;
       letter-spacing: 0.03em;
       text-transform: uppercase;
-      color: var(#4d5ae5);
+      color:#4d5ae5;
 }
 .link {
     text-decoration: none;
 }
 
 .logo-span {
-    color: var(#2e2f42);
+    color: #2e2f42;
 }
 .list {
      list-style: none;
@@ -41,12 +30,12 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(color-grey);
+    color: #2e2f42;
 
  }
 .nav:hover,
 .nav:focus {
-     color:  var(color-ocean);
+     color: #404bbf ;
 
 }
 .contakt {
@@ -56,49 +45,49 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(color-slate);
+    color: #2e2f42;
 }
 .contakt:hover,
 .contakt:focus {
-    color: var(color-ocean);
+    color: #404bbf;
 }
 .hero {
-    background-color: var(color-navy-blue);
+    background-color: #2e2f42;
 }
 .hero-solution {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    color: var(color-white) ;
+    color: #ffffff ;
 }
 .btn {
-    background-color: var(color-iris);
+    background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     letter-spacing: 0.04em;
-    color: var(color-white);
+    color: #ffffff;
     cursor: pointer;
 }
 .btn:hover,
 .btn:focus {
-    background-color: var(color-ocean);
+    background-color: #404BBF;
 }
 .name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(color-navy-blue-modal);
+    color: #2e2f42;
 }
 .front {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(color-slate);
+    color: #434455;
 }
 .team {
     font-size: 36px;
@@ -106,13 +95,13 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(color-navy-blue-modal);
+    color: #2e2f42;
 }
 .foto {
-    background-color: var(color-cloud);
+    background-color: background-color: #F4F4FD;
 }
 .foto-studio {
-    background-color: var(color-white);
+    background-color: #F4F4FD;
 }
 .img {
     background-color: var(color-white);
