@@ -11,14 +11,33 @@ body {
     color: var(--slate);
     background-color: var(--back-color);
 }
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+.navigator {
+    display: flex;
+    align-items: center;
+}
+.container {
+    width: 1158px;
+    padding: 0 15px;
+
+}
+.logotip {
+    display: flex;
+    align-items: center;
+}
+
 .logo {
-     font-family: "Raleway", sans-serif;
-     font-weight: 800;
-     font-size: 18px;
-     line-height: 1.17;
-      letter-spacing: 0.03em;
-      text-transform: uppercase;
-      color: var(--iris);
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--iris);
+    margin-right: 76px;
+      
 }
 .link {
     text-decoration: none;
@@ -26,9 +45,13 @@ body {
 
 .span {
     color: var(--navy-blue);
+    margin-right: 76px 
+
 }
 .list {
-     list-style: none;
+    list-style: none;
+    display: flex;
+    gap: 40px;
 }
  .nav {
     font-weight: 500;
@@ -36,11 +59,12 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
+    padding: 24px 0;
 
  }
 .nav:hover,
 .nav:focus {
-     color: var(--ocean) ;
+    color: var(--ocean) ;
 
 }
 .contakt {
@@ -51,6 +75,8 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--slate);
+    display: flex;
+    gap: 40px;
 }
 .contakt:hover,
 .contakt:focus {
