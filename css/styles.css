@@ -108,7 +108,7 @@ body {
 .foto-studio {
     background-color: var(-back-color);
 }
-.team-list-item {
+.team-item {
     background-color: var(--back-color);
 }
 .footer {
