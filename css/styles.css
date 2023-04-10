@@ -84,6 +84,7 @@ body {
 }
 .hero {
     background-color: var(--navy-blue);
+     padding: 188px 0;
 }
 .hero-solution {
     font-size: 56px;
@@ -91,6 +92,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--back-color);
+    max-width: 496px;
 }
 .btn {
     background-color: var(--iris);
@@ -102,6 +104,11 @@ body {
     letter-spacing: 0.04em;
     color: var(--back-color);
     cursor: pointer;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
 }
 .btn:hover,
 .btn:focus {
