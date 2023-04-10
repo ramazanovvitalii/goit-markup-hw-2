@@ -174,6 +174,15 @@ body {
 .people {
     padding: 32px 16px;
 }
+.offer {
+    padding: 96px 0 120px;
+}
+.overflo {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 72px
+}
 .footer {
     background-color: var(--navy-blue);
     
@@ -192,12 +201,34 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--iris);
-    cursor: pointer;    
+    cursor: pointer;
+    padding: 12px 24px;
+    border: 1px solid #e7e9fc;
+    border-radius: 4px;
+
 }
 .portfolio:hover,
 .portfolio:focus {
     color: var(--back-color);
     background-color: var(--ocean);
+    border: 1px solid transparent;
+    border: 1px solid transparent;
+}
+.banking {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+
+}
+.payment {
+    width: calc((100% - 48px) / 3);
+}
+.interface {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    
 }
 .footer-studio {
     color: var(--cloud);
